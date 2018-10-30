@@ -35,24 +35,23 @@ The UOE website is build using the UOE library and B4J. In the Downloads section
 
 1. Create this folder structure C:\MyApps\B4J\Shared
 2. Create this folder structure C:\MyApps\B4J\Libraries
-3. Download [B4J](https://www.idevaffiliate.com/33168/74.html) (Products Menu) from Anywhere Software and install it
+3. Download and install [B4J](https://www.idevaffiliate.com/33168/74.html) (Products Menu) from Anywhere Software and install it
 4. If you didn't do so, download and install Java JDK 8, see the B4J page for Installation instructions.
-5. Download [UOE Library](https://www.dropbox.com/s/cg18gc4kl6320pv/UOE.zip?dl=0)
+5. Download the [UOE Library](https://www.dropbox.com/s/cg18gc4kl6320pv/UOE.zip?dl=0)
 6. Extract the contents of the UOE zip file to C:\MyApps\B4J\Libraries
-7. Download [XAMPP](https://www.apachefriends.org/index.html%3Cbr/%3E) (optional)
-8. Introduce yourself to [Materialize](https://materializecss.com/)
-9. Start the B4J App.
-10. In it, click Tools > Configure Paths and update the respective paths and save.
+7. Download and install [XAMPP](https://www.apachefriends.org/index.html%3Cbr/%3E) (optional)
+8. Download [B4J 'Hello World' UOE Library Project](https://www.dropbox.com/s/mrwor5g3fby1g0m/MyNewUOE.zip?dl=0)
+9. Extract the contents of the project to C:\MyApps\B4J
+10. Start B4J development tool
+11. Click Tools > Configure Paths and update the respective paths and save (see below)
 
 ![Configure Paths](http://www.mbangas.com/uoe/images/configurepaths.png)
 
-11. Click File > New > UI
-12. Click Windows > Reset (optional)
-13. On bottom right, Click Libraries tab and select UOE
+12. Close the B4J IDE
+13. Start XAMPP Webserver
+13. Double click the UOE1.b4j file under C:\MyApps\B4J, this will open the B4J IDE
+14. Run the project. It should compile and open your default web browser with the project
 
-You are ready to go and in the Downloads section of the UOE website you will find 
+Congratulations.
 
-1. The source code to create the UOE website using the UOE library.
-2. A skeleton B4J project to create your first UOE Library based 'Hello UOE Library' project
-
-Etc
+You can then continue to explore the UOE website on how the other components are created inside pages.
