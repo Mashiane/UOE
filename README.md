@@ -1,7 +1,5 @@
 # UOE
 
-http://www.mbangas.com/uoe
-
 **What is UOE?**
 
 UOE, pronounced 'UWE' is a B4J (Basic 4 Java) library that anyone can use to create Material Design websites easily. This library has been written from the ground up using version 1.0.0 of the [Materialize](https://materializecss.com/) web framework. The intentions with UOE is to enable anyone to create websites without having to write any HTML code by using Visual Basic like syntax. UOE has adopted the Material Design framework due to its ease of use and large adoption amongst developers. You might want to visit our [Frequently Asked Questions](http://www.mbangas.com/uoe/faq.html) for more details about UOE. If you want to hear this page being read, go on and select the microphone (bottom right) to have your device read it.
