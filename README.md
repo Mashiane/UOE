@@ -53,3 +53,5 @@ The UOE website is build using the UOE library and B4J. In the Downloads section
 Congratulations.
 
 You can then continue to explore the UOE website on how the other components are created inside pages.
+
+https://www.patreon.com/join/mashiane
