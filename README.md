@@ -54,4 +54,4 @@ Congratulations.
 
 You can then continue to explore the UOE website on how the other components are created inside pages.
 
-https://www.patreon.com/join/mashiane
+[Become a Patreon](https://www.patreon.com/join/mashiane)
