@@ -2,9 +2,10 @@
 
 **First things first, a brief introduction to files**
 
-uoewebsite.zip - documentation website about the UOE library, double click index.html to view documentation with default browser
+uoewebsite.zip - UOE detailed documentation (start here)
 uoe.zip - b4j uoe library
-uoedocs.zip - b4j code to produce the uoewebsite
+uoedocs.zip - b4j code to produce UOE documentation
+mynewuoe.zip - a hello world b4j uoe project
 
 **What is UOE?**
 
